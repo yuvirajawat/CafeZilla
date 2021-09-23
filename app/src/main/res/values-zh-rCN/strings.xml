@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">你的好名字</string>
+    <string name="toppings">浇头</string>
+    <string name="whipped">生奶油</string>
+    <string name="chocolate">巧克力浇头</string>
+    <string name="quantity">数量</string>
+    <string name="order">按订单</string>
+    <string name="thankYou">谢谢你</string>
+    <string name="subject">为人</string>
+    <string name="tooSmallOrder">您不能订购少于 1 杯咖啡</string>
+    <string name="tooLargeOrder">您不能订购超过 100 杯咖啡</string>
+</resources>

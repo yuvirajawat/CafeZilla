@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toppings">Aderezos</string>
+    <string name="name">Tu buen nombre</string>
+    <string name="whipped">Crema batida</string>
+    <string name="chocolate">Cobertura de chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order">Pedido</string>
+    <string name="thankYou">Gracias</string>
+    <string name="subject">Orden para</string>
+    <string name="tooSmallOrder">No puedes pedir menos de 1 café</string>
+    <string name="tooLargeOrder">No puedes pedir más de 100 cafés</string>
+</resources>

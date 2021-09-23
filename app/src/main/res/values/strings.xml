@@ -1,0 +1,17 @@
+<resources>
+    <string name="toppings">Toppings</string>
+    <string name="whipped">Whipped Cream</string>
+    <string name="quantity">Quantity</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="startQuantity" translatable="false">0</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="order">Order</string>
+    <string name="thankYou">Thank You</string>
+    <string name="targetMail" translatable="false">cafezilla@gmail.com</string>
+    <string name="subject">Order for</string>
+    <string name="tooSmallOrder">"You can't order less than 1 Coffee"</string>
+    <string name="name">Your Good Name</string>
+    <string name="app_name" translatable="false">Cafezilla</string>
+    <string name="tooLargeOrder">"You can't order more than 100 Coffee"</string>
+    <string name="chocolate">Chocolate Topping</string>
+</resources>

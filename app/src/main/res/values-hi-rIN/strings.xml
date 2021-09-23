@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooLargeOrder">आप 100 से अधिक कॉफ़ी ऑर्डर नहीं कर सकते</string>
+    <string name="tooSmallOrder">आप 1 कॉफी से कम का ऑर्डर नहीं दे सकते</string>
+    <string name="subject">"व्यक्ति के लिए "</string>
+    <string name="thankYou">धन्यवाद</string>
+    <string name="order">आदेश के लिए दबाएं</string>
+    <string name="quantity">मात्रा</string>
+    <string name="whipped">मलाई</string>
+    <string name="chocolate">चॉकलेट टॉपिंग</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="name">आपका शुभ नाम</string>
+</resources>
