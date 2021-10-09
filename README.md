@@ -9,6 +9,9 @@ Tech:
 Java, XML, AndroidUI, Object Oriented Programming, Localisation, Intents, Toast Messages
 
 Requirements:
+
 Min SDK Version API 21
+
 Target SDK 31
+
 Build Tools 31.0.3
