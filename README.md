@@ -1,17 +1,15 @@
 # CafeZilla
 
 Developed a coffee ordering android app 
-1. This app takes order from customer and uses Intents to forward it to the coffee shop 
-2.  Implemented localisation in 5 languages(Hindi, English, Spanish, French, Chinese).
+*  This app takes order from customer and uses Intents to forward it to the coffee shop 
+*  Implemented localisation in 5 languages(Hindi, English, Spanish, French, Chinese).
 
-Tech: 
-
-Java, XML, AndroidUI, Object Oriented Programming, Localisation, Intents, Toast Messages
+* Tech: Java, XML, AndroidUI, Object Oriented Programming, Localisation, Intents, Toast Messages
 
 Requirements:
 
-Min SDK Version API 21
+* Min SDK Version API 21
 
-Target SDK 31
+* Target SDK 31
 
-Build Tools 31.0.3
+* Build Tools 31.0.3
